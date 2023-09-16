@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png" height="200"></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/763802052446388254/1152411045864943686/1200px-Flag_of_Finland.png?width=1098&height=671" height="200"></p>
 
 <h1 align="center">Ultraviolet-App</h1>
 
